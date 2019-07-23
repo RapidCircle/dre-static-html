@@ -6,7 +6,8 @@
             "type": "string"
         },
         "hostingPlanName": {
-            "type": "string"
+            "type": "string",
+            "defaultValue": "ServicePlanDreSolution"
         },
         "siteLocation": {
             "type": "string"
